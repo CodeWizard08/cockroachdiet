@@ -43,12 +43,12 @@ export default function Author() {
           <AnimateOnScroll delay={0.1}>
             <p className="text-base leading-[1.9] text-text mb-4">
               Scott Mortensen spent 30 years doing things most doctors only read
-              about. He started as an EMT in 1995 and clawed his way through
-              every rung of frontline medicine &mdash; paramedic, flight medic,
-              fire captain, search-and-rescue operator &mdash; logging over
-              30,000 hours on the sharp end of human suffering before ever
-              putting on a white coat. He later earned his PA-C and MD with
-              honors, not to join the system, but to break it.
+              about. He started as an EMT in 1995 and worked his way through
+              every level of frontline medicine: paramedic, flight medic, fire
+              captain, search-and-rescue operator. Over 30,000 hours on the
+              sharp end of human suffering before ever putting on a white coat.
+              He later earned his PA-C and MD with honors. Not to join the
+              system. To fix it.
             </p>
           </AnimateOnScroll>
 
@@ -57,18 +57,19 @@ export default function Author() {
               His r&eacute;sum&eacute; reads like fiction: two unprecedented
               rescues in the Everest Death Zone. Chief Medical Officer for a
               Guinness World Record unsupported crossing of the Arctic Ocean.
-              Disaster medicine in post-earthquake Haiti. Founding clinics in
-              Fiji and Honduras. Producing a documentary to fight human
-              trafficking in Thailand. Raising awareness and funds for autism in
-              Hawaii. Collaborations with Nike, Warner Bros., Stand Up to
-              Cancer, the Red Cross, and Samaritan&apos;s Purse.
+              Disaster medicine in post-earthquake Haiti. Founded clinics in
+              Fiji and Honduras. Rode a bicycle across America and produced a
+              documentary to fight human trafficking in Thailand. Raised
+              awareness and funds for autism in Hawaii. Collaborations with
+              Nike, Warner Bros., Stand Up to Cancer, the Red Cross, and
+              Samaritan&apos;s Purse.
             </p>
           </AnimateOnScroll>
 
           <AnimateOnScroll delay={0.2}>
             <p className="text-base leading-[1.9] text-text mb-4">
-              He avoids podcasts. He doesn&apos;t sell courses. He rejects the
-              biohacking cosplay and influencer circus entirely.
+              He avoids podcasts. He does not sell courses. He has no interest
+              in the biohacking influencer circuit.
             </p>
           </AnimateOnScroll>
 
@@ -80,50 +81,41 @@ export default function Author() {
 
           <AnimateOnScroll delay={0.3}>
             <p className="text-base leading-[1.9] text-text mb-4">
-              Acute motor axonal neuropathy &mdash; a savage
-              Guillain-Barr&eacute; variant &mdash; left him 90% paralyzed. The
-              same medical system he&apos;d spent decades serving handed him a
-              wheelchair and a shrug. So he rebuilt himself using the tools
-              mainstream medicine shuns: peptides, stem cells, plasmapheresis,
-              hyperbaric oxygen, and the kind of stubborn, unreasonable will
-              that doesn&apos;t show up on an MRI.
+              Acute motor axonal neuropathy, a severe Guillain-Barr&eacute;
+              variant, left him 90% paralyzed. The same medical system he had
+              spent decades serving offered a wheelchair and a shrug. So he
+              rebuilt himself using the tools mainstream medicine overlooks:
+              peptides, stem cells, plasmapheresis, hyperbaric oxygen, and the
+              kind of stubborn, unreasonable resolve that does not show up on
+              an MRI.
             </p>
           </AnimateOnScroll>
 
           <AnimateOnScroll delay={0.35}>
             <p className="text-base leading-[1.9] text-text mb-4">
-              That experience burned away whatever diplomacy he had left.
+              Today, Dr. Mortensen practices at Complete Performance Center and
+              Mortensen Medical, a 501(c)(3) nonprofit delivering regenerative
+              medicine, peptide therapy, and precision diagnostics to veterans,
+              first responders, and the underserved. No one is turned away for
+              inability to pay. He is simultaneously building five compliant
+              companies across the peptide and regenerative medicine space:
+              Mortensen Medical, Peptide Pure, Peptide Buzz, Onzen.health, and
+              The Cockroach Diet.
             </p>
           </AnimateOnScroll>
 
           <AnimateOnScroll delay={0.4}>
             <p className="text-base leading-[1.9] text-text mb-4">
-              Today, Dr. Mortensen volunteers at Complete Performance Center and
-              Mortensen Medical, a 501(c)(3) nonprofit delivering regenerative
-              medicine, peptide therapy, and precision diagnostics to veterans,
-              first responders, and the underserved &mdash; no one turned away
-              for inability to pay. He&apos;s simultaneously building five
-              companies across the peptide and regenerative medicine space:
-              Peptide Pure (pharmaceutical-grade injectables), Peptide Buzz and
-              Neurosting (OTC peptide products), onzen.health (AI-guided
-              regenerative protocols), and The Cockroach Diet &mdash; the book
-              you should read if anyone reads anymore.
+              <em>The Cockroach Diet</em> is not a diet book. It is a field
+              manual for becoming durable in a world that rewards convenience
+              over resilience. Built on three levels (Healthy, Wealthy, Wise)
+              and one protocol: STARTED. It is the product of a man who nearly
+              died, refused to do nothing, and wrote it all down so you do not
+              have to learn the hard way.
             </p>
           </AnimateOnScroll>
 
           <AnimateOnScroll delay={0.45}>
-            <p className="text-base leading-[1.9] text-text mb-4">
-              <em>The Cockroach Diet</em> is not a diet book. It&apos;s a field
-              manual for becoming unkillable in a world engineered to make you
-              soft, sick, and dependent. It&apos;s built on three levels &mdash;
-              Healthy, Wealthy, Wise &mdash; and one protocol: STARTED.
-              It&apos;s the product of a man who nearly died, refused to stay
-              down, and came back angry enough to write it all down so you
-              don&apos;t have to learn the hard way.
-            </p>
-          </AnimateOnScroll>
-
-          <AnimateOnScroll delay={0.5}>
             <p className="font-serif text-xl italic text-orange font-medium mb-4">
               Choose your adversity, or life will choose it for you.
             </p>
