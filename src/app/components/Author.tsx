@@ -97,10 +97,8 @@ export default function Author() {
               Mortensen Medical, a 501(c)(3) nonprofit delivering regenerative
               medicine, peptide therapy, and precision diagnostics to veterans,
               first responders, and the underserved. No one is turned away for
-              inability to pay. He is simultaneously building five compliant
-              companies across the peptide and regenerative medicine space:
-              Mortensen Medical, Peptide Pure, Peptide Buzz, Onzen.health, and
-              The Cockroach Diet.
+              inability to pay. He is simultaneously building out the
+              killerhealth.ai ecosystem.
             </p>
           </AnimateOnScroll>
 
